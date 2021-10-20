@@ -1,0 +1,15 @@
+{
+  "name": "threejs-multithreading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "serve -l 9696",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^12.0.1"
+  }
+}
